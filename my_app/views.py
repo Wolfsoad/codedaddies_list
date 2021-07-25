@@ -1,4 +1,5 @@
 import requests
+import lxml
 from requests.compat import quote_plus
 from django.shortcuts import render
 from bs4 import BeautifulSoup
