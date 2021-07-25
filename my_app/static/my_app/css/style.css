@@ -1,10 +1,10 @@
-.card {
+/* .card {
   height: 400px;
   overflow: hidden;
-}
+} */
 
 .card-image {
-    height: 250px;
+    height: 200px;
     overflow: hidden;
 }
 
