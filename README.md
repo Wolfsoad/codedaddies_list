@@ -1,5 +1,5 @@
 "# codedaddies_list"
 
-"Tutorial from:"
+Creation of interface for craigslist website. Performed using tutorial video from:
+  https://www.youtube.com/watch?v=JT80XhYJdBw&t=15443s&ab_channel=CleverProgrammer
 
-"https://www.youtube.com/watch?v=JT80XhYJdBw&t=15443s&ab_channel=CleverProgrammer"
